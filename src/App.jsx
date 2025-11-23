@@ -16,7 +16,7 @@ const members = [
   {
     name: "Md Rasel Bhuyan",
     role: "Team Lead / Full-Stack Developer",
-    profileUrl: "https://www.linkedin.com/in/rasel-bhuyan/",
+    profileUrl: "/profiles/rasel/index.html",
     profileImg: "/images/rasel.jpeg",
   },
   {
